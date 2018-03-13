@@ -1,4 +1,4 @@
-# convolutional Networks mnist.
+# convolutional Networks MNIST.
 Classification of handwritten digits using convolutional neural networks. 
 
 This project shows how to use Keras to classify images of handwritten digits.
